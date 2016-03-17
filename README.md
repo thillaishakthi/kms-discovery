@@ -12,11 +12,4 @@ Commtting one more change - change on master
 
 - 3rd chg to this d branch
 
-
---this change is made from local master branch and pushed to remote master branch--
-
-
-attempting to demystify.......
-AN IMPORTANT CHANGE IN THE DEVELOPMENT BRANCH IS BEING DONE.......
-
-Yes, I understand....
+- Change I can understand now....3/17 at 6:51 PM
