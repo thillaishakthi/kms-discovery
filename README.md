@@ -13,3 +13,5 @@ Commtting one more change - change on master
 - 3rd chg to this d branch
 
 - Change I can understand now....3/17 at 6:51 PM
+
+- I think I am getting it now, hopefully 3/17 at 10:12 PM
